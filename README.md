@@ -1,4 +1,4 @@
-React Interface - Affichage Image et Graphique Température & Humidité depuis Firebase
+React Interface - Affichage Image et Graphique Température & Humidité depuis Firebase.
 Cette petite application React permet de :
 
 Afficher une image récupérée depuis Firebase Storage ou une URL stockée dans Firebase Realtime Database / Firestore.
